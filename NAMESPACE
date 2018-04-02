@@ -6,7 +6,6 @@ useDynLib(geoR)
 #
 # Import all packages listed as Imports or Depends
 import(graphics)
-import(tcltk)
 
 #importFrom(graphics,plot)
 #importFrom(graphics,persp)
